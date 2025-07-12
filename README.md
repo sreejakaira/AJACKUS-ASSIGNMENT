@@ -199,6 +199,10 @@ Modify CSS custom properties in `:root` to change colors:
 - **Integration**: REST API integration
 - **Offline Support**: Service worker for offline functionality
 
+## 🚀 Live Deployment
+
+Experience the live version of the application here: [🌐 Open App](https://sreejasapp.netlify.app/)
+
 ## 🐛 Known Issues
 
 - **Large Datasets**: Performance may degrade with 1000+ employees
